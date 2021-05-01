@@ -1,0 +1,1 @@
+void main(){ int a=3, b=201, res1, 2res; res1=b/a; 2res= b*c; cout<<res1; return 0;}
