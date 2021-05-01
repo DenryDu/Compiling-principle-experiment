@@ -125,7 +125,7 @@
 
 - 测试**2**运行结果：
 
-  ![img](file:///C:/Users/ddycf/AppData/Local/Temp/msohtmlclip1/01/clip_image008.png)
+  ![img](https://i.loli.net/2021/05/01/YMLOP5dFeNBWG9K.png)
 
 ## Related Efforts
 
